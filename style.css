@@ -50,6 +50,12 @@ nav h2 {
     align-items: center;
     justify-content: space-between;
     padding: 60px 10%;
+
+    background-image: linear-gradient(rgba(7, 21, 47, 0.75), rgba(7, 21, 47, 0.75)),
+                      url("certificate/background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 
